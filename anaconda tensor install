@@ -1,0 +1,7 @@
+https://www.tensorflow.org/install/install_windows#installing_with_anaconda
+
+create a new environment
+tensorflow with python 3.5
+activate terminal
+
+>pip install --ignore-installed --upgrade tensorflow 
